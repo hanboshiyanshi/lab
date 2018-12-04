@@ -11,5 +11,5 @@
 7. git status查看本地状态， git remote -v查看远程库状态
 
 # 提交方式
-法一: git push -f upstream master 强制提交到上游源库
-法二: git push origin master 提交到自己的仓库中,然后发起PR由源库管理员审核通过
+- git push -f upstream master 强制提交到上游源库
+- git push origin master 提交到自己的仓库中,然后发起PR由源库管理员审核通过
